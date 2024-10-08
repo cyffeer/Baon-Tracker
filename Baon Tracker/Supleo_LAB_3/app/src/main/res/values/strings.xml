@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Supleo_LAB_3</string>
+    <string-array name="itemselect">
+        <item></item>
+        <item>Utilities</item>
+        <item>Food</item>
+        <item>Savings</item>
+        <item>Housing</item>
+        <item>Transportation</item>
+    </string-array>
+</resources>
